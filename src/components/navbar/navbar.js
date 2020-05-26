@@ -10,7 +10,7 @@ function NavBar() {
                     <a className="navbar-brand">My Profile </a>
                 </div>
                 <ul className="nav navbar-nav">
-                    <li><Link to="/my-github-io">Home</Link></li>
+                    <li><Link to="/">Home</Link></li>
                     <li><Link to="/about">About Me</Link></li>
                     <li><Link to="/project">Projects</Link></li>
                     <li><Link to="#">Resume</Link></li>
