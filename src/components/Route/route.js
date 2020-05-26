@@ -10,7 +10,7 @@ import Project from '../projects/project';
 function Routes() {
     return (
         <Switch>
-            <Route exact path="/" component={Home} />
+            <Route exact path="/my-github-io" component={Home} />
             <Route path="/about" component={About} />
             <Route path="/project" component={Project} />
         </Switch>
